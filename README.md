@@ -1,1 +1,13 @@
 # CD370
+## Laynie Tierney
+
+
+In this project, I worked on implementing a reinforcement learning-based intelligent agent using a Jupyter Notebook. The project focused on developing a pirate intelligent agent that navigates a maze to find a treasure while maximizing rewards and minimizing penalties. The code provided included the environment setup, such as defining the maze, the pirate's starting position, and the rules for movement and rewards within the maze. Additionally, I was given code for experience replay, which stores episodes for training the agent, and a build_model function to create a neural network model for the agent.
+
+The code I created myself primarily involved implementing the Q-training algorithm using deep Q-learning. This involved completing the pseudocode provided in the notebook, including selecting actions, updating the agent's state, storing episodes in memory, training the neural network model using experience replay, and evaluating the loss. I also added comments and documentation throughout the code to explain the implementation details and provide clarity for future reference.
+
+Throughout this course, I've learned fundamental concepts in reinforcement learning, neural networks, and their applications to real-world problems. Computer scientists leverage these concepts to develop intelligent systems that can learn from data, make predictions, and optimize decision-making processes. By applying reinforcement learning techniques, we can create agents that autonomously learn to solve complex problems by interacting with their environment and receiving feedback in the form of rewards or penalties.
+
+As a computer scientist, I approach problems by first understanding the problem domain, defining clear objectives, and identifying relevant data and algorithms to tackle the problem effectively. I employ analytical thinking, problem-solving skills, and computational techniques to develop solutions that are efficient, scalable, and robust. Additionally, I continuously iterate on my solutions, incorporating feedback and refining approaches to achieve better performance and results.
+
+My ethical responsibilities as a computer scientist include ensuring the integrity and fairness of my algorithms, protecting user privacy and data security, and considering the societal impact of my work. I must prioritize transparency and accountability in algorithmic decision-making processes, mitigate biases and discrimination, and uphold ethical standards in research and development. By adhering to ethical guidelines and principles, I can contribute to building trust and confidence in technology while minimizing potential harm to users and society.
